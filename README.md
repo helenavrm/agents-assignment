@@ -103,7 +103,6 @@ A short demo video namded **demo.mp3** showing all test cases has been uploaded 
 ## 👩‍💻 Author
 
 **Name:** Maria Helana Manickam
-**Branch:** `feature/interrupt-handler-<yourname>`
 **GitHub Repo:** [https://github.com/helenavrm/agents-assignment](https://github.com/helenavrm/agents-assignment)
 
 ---
